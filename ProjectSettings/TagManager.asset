@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - Lights
+  - EndPasillo
+  - AgainPasillo
+  - TensionTrigger
   layers:
   - Default
   - TransparentFX
